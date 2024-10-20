@@ -1,5 +1,5 @@
 # making non significant changes
-
+# this is only how to use the text embeddings in LLMs
 import streamlit as st
 import langchain
 from langchain.embeddings import OpenAIEmbeddings
